@@ -244,10 +244,5 @@ Execute the programs and publish them.
 ![Alt text](image-6.png)
 
 
-
-
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
